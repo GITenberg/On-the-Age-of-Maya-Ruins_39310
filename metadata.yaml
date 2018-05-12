@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '39923'
     url: http://www.gutenberg.org/2009/agents/39923
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39310#On-the-Age-of-Maya-Ruins
 gutenberg_issued: '2012-03-30'
 gutenberg_type: Text
 identifiers:
